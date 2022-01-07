@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imran201khan
 - 👀 I’m interested in ... android app develpoment
-- 🌱 I’m currently learning ...android app development and DSA(c++)
+- 🌱 I’m currently learning ...ML and DSA(c++)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/imran-khan-961065216  (linkdin)
 
